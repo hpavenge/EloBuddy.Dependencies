@@ -1,0 +1,202 @@
+{
+  "StaticFiles": {
+    "Dependencies\\EloBuddy.Unmanaged.dll": {
+      "MD5": "35ce4c05680426da5dfc617007139c35",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
+    },
+    "Dependencies\\git2-6b36945.dll": {
+      "MD5": "720047d08ae0936e6a8c689d9dcc31a6",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/git2-6b36945.dll"
+    },
+    "Dependencies\\LibGit2Sharp.dll": {
+      "MD5": "b77f5f6e2b0a1d128753470ebf4c8e68",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
+    },
+    "System\\EloBuddy.Sandbox.dll": {
+      "MD5": "58338a18171b7ba6cf95a596f1dbc508",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
+    },
+    "System\\EloBuddy.SDK.dll": {
+      "MD5": "f89965daac6ea35359277942dce9e58c",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
+    },
+    "System\\Newtonsoft.Json.dll": {
+      "MD5": "95e24268172c8908f5b2c906b90a92a7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/Newtonsoft.Json.dll"
+    },
+    "System\\SharpDX.Direct3D9.dll": {
+      "MD5": "b64939d8f4e6658d90ad9c344994553b",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.Direct3D9.dll"
+    },
+    "System\\SharpDX.dll": {
+      "MD5": "9e2ae61790b003ce712fd7e436be0c49",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.dll"
+    },
+    "System\\SharpDX.XInput.dll": {
+      "MD5": "b395389e49726656ab20c26ee631a28b",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.XInput.dll"
+    },
+    "Dependencies\\Newtonsoft.Json.dll": {
+      "MD5": "95e24268172c8908f5b2c906b90a92a7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Newtonsoft.Json.dll"
+    },
+    "Dependencies\\PresentationFramework.dll": {
+      "MD5": "51c66aaf61704529cf7385ce45c5f6e4",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.dll"
+    },
+    "Dependencies\\PresentationFramework.Aero.dll": {
+      "MD5": "7959172ca21de68f8209c9bb2e20ca90",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.Aero.dll"
+    },
+    "EloBuddy.Loader.exe.config": {
+      "MD5": "5d28cebd33ce471141396eaab6fe95eb",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe.config"
+    },
+    "Dependencies\\EloBuddy.Networking.dll": {
+      "MD5": "930f59fe04cc2f72653e92c78a2e9233",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
+    },
+    "Settings\\Languages\\Chinese.xml": {
+      "MD5": "96511c7c48eee686ce7614aaaf91bce7",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Chinese.xml"
+    },
+    "Settings\\Languages\\ChineseTraditional.xml": {
+      "MD5": "0801947fa981acc68e45a85d7d22eb20",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/ChineseTraditional.xml"
+    },
+    "Settings\\Languages\\French.xml": {
+      "MD5": "4adb9e5b83b35f60f866b05e6ca74409",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/French.xml"
+    },
+    "Settings\\Languages\\German.xml": {
+      "MD5": "cf08e73b6465d26a5356751998c98222",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/German.xml"
+    },
+    "Settings\\Languages\\Italian.xml": {
+      "MD5": "260c802fcc845563dcb755f43f3413f8",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Italian.xml"
+    },
+    "Settings\\Languages\\Korean.xml": {
+      "MD5": "bd3fd8ac8c546cd0373d4a299eec3892",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Korean.xml"
+    },
+    "Settings\\Languages\\Polish.xml": {
+      "MD5": "d77669ebc7e193239849ba9eaf5d082b",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Polish.xml"
+    },
+    "Settings\\Languages\\Portuguese.xml": {
+      "MD5": "b5c9385bea3e6f0db73b3589c60e6aa4",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Portuguese.xml"
+    },
+    "Settings\\Languages\\Romanian.xml": {
+      "MD5": "2bfa61b62758e83345cf8f1526431ff2",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Romanian.xml"
+    },
+    "Settings\\Languages\\Spanish.xml": {
+      "MD5": "8c5a2dfdc2f70a694a8d8cdfa3dcd46d",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Spanish.xml"
+    },
+    "Settings\\Languages\\Turkish.xml": {
+      "MD5": "5f3dbf628bac536e22214547e036e7a9",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Turkish.xml"
+    },
+    "Settings\\Languages\\Vietnamese.xml": {
+      "MD5": "594cca87e5eb92e4b69360e0bd2ebd89",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Vietnamese.xml"
+    },
+    "Dependencies\\LogentriesCore.dll": {
+      "MD5": "90073332b5a614828c514f33a34afb08",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LogentriesCore.dll"
+    },
+    "Dependencies\\LogentriesNLog.dll": {
+      "MD5": "ed85b777ff646eb4a16202ba98df6240",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LogentriesNLog.dll"
+    },
+    "Dependencies\\Microsoft.WindowsAzure.Configuration.dll": {
+      "MD5": "7dda2559e91d55da6f4192f03e2b12dc",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Microsoft.WindowsAzure.Configuration.dll"
+    },
+    "Dependencies\\NLog.dll": {
+      "MD5": "0aea243147e3483873bc1cddab71916d",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/NLog.dll"
+    }
+  },
+  "Patches": {
+    "60f37e702617ae66f018482c51d0a981": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "d3523aa70f1853a9fa1639ce74f0e4c8",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.19/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "00c4a9f75023f3b23974c659da569c3c",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.19/EloBuddy.dll"
+        }
+      }
+    },
+    "e44f4f896a0b1288fa1c2ff82adf5fa7": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "79586a7e13e1ad923814ce4cfe680b18",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.19-garena/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "6c443c5ff77c115b47a6bd1d49a701f7",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.19-garena/EloBuddy.dll"
+        }
+      }
+    },
+    "763f28cd1bac7e9f6d2960cdd7793b18": {
+      "Files": {
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "e4a51f72a4908b8d5d709138fa2fa572",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.19-hf/EloBuddy.Core.dll"
+        },
+        "System\\EloBuddy.dll": {
+          "MD5": "2ed7f04a39d5741ffe723d4361c1ee4b",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.19-hf/EloBuddy.dll"
+        }
+      }
+    },
+    "174efbfefc16b15fbdb45cfd691dc65a": {
+      "Files": {
+        "System\\EloBuddy.dll": {
+          "MD5": "01eb0a9768d245a8ad5202eebae806bc",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.20/EloBuddy.dll"
+        },
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "f76101091713fcf293fa2394b38aa860",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.20/EloBuddy.Core.dll"
+        }
+      }
+    },
+    "990b2ebad2cfc1eccaca2e56b24d935d": {
+      "Files": {
+        "System\\EloBuddy.dll": {
+          "MD5": "a19162437b7e80121fa14a139ec98cc8",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.21/EloBuddy.dll"
+        },
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "590e4bb8befe68fbbfb2afb6ae745c6b",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.21/EloBuddy.Core.dll"
+        }
+      }
+    },
+    "09a1227d1e864a8a572715b078e8f84c": {
+      "Files": {
+        "System\\EloBuddy.dll": {
+          "MD5": "2c8148dca2ba5aa014e7074cc3618a23",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.21-garena/EloBuddy.dll"
+        },
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "8f393422f68dbf0e99da89070cead0b6",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.21-garena/EloBuddy.Core.dll"
+        }
+      }
+    }
+  },
+  "Loader": {
+    "MD5": "361a08eede9d50c4c88e1d8417cf82e6",
+    "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
+  }
+}

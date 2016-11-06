@@ -1,0 +1,319 @@
+{
+  "core": [
+    {
+      "md5": [
+        "59e3e0afab949c5ebf6ad78b8ebef651",
+        "61288a57ac9921d708b8321150b622ae"
+      ],
+      "build": "318",
+      "changes": [
+        "fixed HPBarPosition",
+        "added Kled Skaarl API"
+      ]
+    },
+    {
+      "md5": [
+        "c48c86031f158f506d4f24dfc5d809d9"
+      ],
+      "build": "319",
+      "changes": [
+        "updated for HF"
+      ]
+    },
+    {
+      "md5": [
+        "069f37b3aaf91acfbb57cb3c6520752c",
+        "ea98515220209f0d4e67eda08d58e986"
+      ],
+      "build": "320",
+      "changes": [
+        "fixed NavMesh issues"
+      ]
+    },
+    {
+      "md5": [
+        "364c0fb09db64a52f62002e7c1a57210",
+        "602f53611745e274c8d2ef1e68e8d5e5"
+      ],
+      "build": "320",
+      "changes": [
+        "fix SpellDataInst.ToggleState"
+      ]
+    },
+    {
+      "md5": [
+        "28cd9d084d26fc16c897f245c75f48c0"
+      ],
+      "build": "328",
+      "changes": [
+        "updated for patch 6.17"
+      ]
+    },
+    {
+      "md5": [
+        "3c68644368e105d7930aeb7420869a17"
+      ],
+      "build": "329",
+      "changes": [
+        "fixed Streaming Mode",
+        "fixed NavMesh issues part 2"
+      ]
+    },
+    {
+      "md5": [
+        "7b37ab7a1ceac25b304517db7b1d23d3"
+      ],
+      "build": "330",
+      "changes": [
+        "fixed SpellDataInst.Ammo",
+        "fixed SpellDataInst.AmmoRechargeStart",
+        "fixed SpellDataInst.Cooldown",
+        "fixed MissileClient.Target"
+      ]
+    },
+    {
+      "md5": [
+        "b2a20df80d7aed60d4876e50514707fc"
+      ],
+      "build": "357",
+      "changes": [
+        "updated for patch 6.18",
+        "added bypass for 'Demacia' (KR anti-cheating) rendering it useless"
+      ]
+    },
+    {
+      "md5": [
+        "e08cba4de7b4aaf0632953a68d451f3e"
+      ],
+      "build": "358",
+      "changes": [
+        "fixed fake clicks"
+      ]
+    },
+    {
+      "md5": [
+        "fa027041e821ea5f7008c44c3766acea"
+      ],
+      "build": "359",
+      "changes": [
+        "updated for patch 6.18-hf"
+      ]
+    },
+    {
+      "md5": [
+        "aafe4501c9eea634dddab5a10e47cfe5"
+      ],
+      "build": "360",
+      "changes": [
+        "fixed Spellbook.SpellTrainingPoints",
+        "added possibility for infinite Graves E exploit"
+      ]
+    },
+    {
+      "md5": [
+        "8a47ee775ee93b89f8d32161eb96d00c"
+      ],
+      "build": "362",
+      "changes": [
+        "fixed spells not casting properly"
+      ]
+    },
+    {
+      "md5": [
+        "79586a7e13e1ad923814ce4cfe680b18",
+        "20e23b7950d9e29862f8a950e76230ca"
+      ],
+      "build": "381",
+      "changes": [
+        "updated for patch 6.19"
+      ]
+    },
+    {
+      "md5": [
+        "5ed786f4194ea4fed6e8b99320066738"
+      ],
+      "build": "401",
+      "changes": [
+        "updated anti-cheating",
+        "fixed BuffInstance issues",
+        "fixed Obj_AI_Base.VisibleOnScreen",
+        "fixed SpellDataInst.ToggleState"
+      ]
+    },
+    {
+      "md5": [
+        "d3523aa70f1853a9fa1639ce74f0e4c8"
+      ],
+      "build": "402",
+      "changes": [
+        "fixed HPBarPosition"
+      ]
+    },
+    {
+      "md5": [
+        "e4a51f72a4908b8d5d709138fa2fa572"
+      ],
+      "build": "403",
+      "changes": [
+        "updated for patch 6.19-hf"
+      ]
+    },
+    {
+      "md5": [
+        "5b384740aa3e27b9f7decff74cbe2cd7"
+      ],
+      "build": "404",
+      "changes": [
+        "updated for patch 6.20"
+      ]
+    },
+    {
+      "md5": [
+        "06e014631796b0a64d2a14d3942407f8"
+      ],
+      "build": "405",
+      "changes": [
+        "fixed MissileClient.SpellCaster"
+      ]
+    },
+    {
+      "md5": [
+        "80d7b274beafda1778f27e4f0fc21968"
+      ],
+      "build": "406",
+      "changes": [
+        "OnProcessSpell now triggers properly"
+      ]
+    },
+    {
+      "md5": [
+        "ffb4a0e862698caf3ff5a221ee56af66"
+      ],
+      "build": "407",
+      "changes": [
+        "added Ivern to Champion Enum",
+        "updated ItemId Enum"
+      ]
+    },
+    {
+      "md5": [
+        "0ff8e088fe1ae8f47e4c1716b582710a"
+      ],
+      "build": "408",
+      "changes": [
+        "fixed OnStopCast event (this fixes Orbwalker issues)"
+      ]
+    },
+    {
+      "md5": [
+        "409a921b6a59690cb408d5e39dad7250"
+      ],
+      "build": "409",
+      "changes": [
+        "fixed Obj_AI_Base.Direction",
+        "fixed Obj_AI_Base.AttackCastDelay"
+      ]
+    },
+    {
+      "md5": [
+        "ad100d7e41dbf3c536a7f77b247911d3"
+      ],
+      "build": "410",
+      "changes": [
+        "fixed Obj_AI_Base.OnBasicAttack triggering on spells"
+      ]
+    },
+    {
+      "md5": [
+        "ed0084d297738de8725c434de567ae99"
+      ],
+      "build": "411",
+      "changes": [
+        "performance improvements"
+      ]
+    },
+    {
+      "md5": [
+        "b0db0a2668fd6b260cb3caf9b9104019"
+      ],
+      "build": "412",
+      "changes": [
+        "OnBasicAttack fixes"
+      ]
+    },
+    {
+      "md5": [
+        "e43e2e9a1666b3902df746aa5bbb1d34"
+      ],
+      "build": "413",
+      "changes": [
+        "fixed Game.FPS"
+      ]
+    },
+    {
+      "md5": [
+        "f76101091713fcf293fa2394b38aa860"
+      ],
+      "build": "414",
+      "changes": [
+        "fixed TacticalMap API",
+        "fixed Camera API",
+        "fixed Games counting multiple times in Account History"
+      ]
+    },
+    {
+      "md5": [
+        "b7c0c32594095e2a01a04f86a172cda2"
+      ],
+      "build": "415",
+      "changes": [
+        "updated for patch 6.21"
+      ]
+    },
+    {
+      "md5": [
+        "d703ecb3d6f3ba42b1f400475f3bde7a"
+      ],
+      "build": "416",
+      "changes": [
+        "fix crashes"
+      ]
+    },
+    {
+      "md5": [
+        "163186efb53f6bfb4cf0a52d12c73a8a"
+      ],
+      "build": "417",
+      "changes": [
+        "fix Obj_AI_Base.GetPath()"
+      ]
+    },
+    {
+      "md5": [
+        "78e50bd49e8e3f7bf84ce3990995a959"
+      ],
+      "build": "418",
+      "changes": [
+        "various bug-fixes"
+      ]
+    },
+    {
+      "md5": [
+        "590e4bb8befe68fbbfb2afb6ae745c6b"
+      ],
+      "build": "419",
+      "changes": [
+        "various bug-fixes part 2"
+      ]
+    },
+    {
+      "md5": [
+        "8f393422f68dbf0e99da89070cead0b6"
+      ],
+      "build": "420",
+      "changes": [
+        "updated for Garena (sorry for the delay)"
+      ]
+    }
+  ]
+}
