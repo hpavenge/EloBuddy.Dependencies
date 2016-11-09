@@ -314,6 +314,15 @@
       "changes": [
         "updated for Garena (sorry for the delay)"
       ]
+    },
+    {
+      "md5": [
+        "701f4e0fc150507ef521264758b22222"
+      ],
+      "build": "421",
+      "changes": [
+        "updated for patch 6.22"
+      ]
     }
   ]
 }
