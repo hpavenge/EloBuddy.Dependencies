@@ -335,6 +335,16 @@
         "fixed a few SData properties",
         "updated ItemId Enumeration"
       ]
+    },
+    {
+      "md5": [
+        "c8a369b35359f46fbf55228329421d55"
+      ],
+      "build": "423",
+      "changes": [
+        "fixed Obj_AI_Base.Direction",
+        "fixed a few more SData properties"
+      ]
     }
   ]
 }
