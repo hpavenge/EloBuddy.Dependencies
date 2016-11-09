@@ -323,6 +323,18 @@
       "changes": [
         "updated for patch 6.22"
       ]
+    },
+    {
+      "md5": [
+        "136b3ede30a342bcec8d988512119be5"
+      ],
+      "build": "422",
+      "changes": [
+        "fixed IsRanged/IsMelee",
+        "fixed SpellDataInst.ToggleState, SpellDataInst.Cooldown",
+        "fixed a few SData properties",
+        "updated ItemId Enumeration"
+      ]
     }
   ]
 }
