@@ -355,6 +355,15 @@
         "fixed PlayAnimation",
         "added RiotString.HashAnimation"
       ]
+    },
+    {
+      "md5": [
+        "8f6a1a61cace44c4ddd453fc29f6fada"
+      ],
+      "build": "425",
+      "changes": [
+        "add more Animations"
+      ]
     }
   ]
 }
