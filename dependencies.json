@@ -197,7 +197,7 @@
     "792043d1a5da2044de2e83ca96faa5f3": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "e3bf7d476d7ef8f368f70498e6d6b023",
+          "MD5": "134d54b07908789dae1c6c2af96d51ab",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.22/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
