@@ -209,7 +209,7 @@
     "be59d277b57e8983ae8854664c43167b": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "264f69d495cf5534af68d6c0a5425f1e",
+          "MD5": "51dc82c71f75f344c6fdcc0d1fed1a83",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.22-garena/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
