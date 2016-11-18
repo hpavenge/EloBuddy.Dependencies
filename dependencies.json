@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
-      "MD5": "533c2846ab3cb98eaefbc9a30d235210",
+      "MD5": "8c9d81a5d5c79d34a364fe1a355a8a6c",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
@@ -220,7 +220,7 @@
     }
   },
   "Loader": {
-    "MD5": "2feadef66e7282f5f2426566d4603da7",
+    "MD5": "f3bccc64345bfcf979e175a919c6e570",
     "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
   }
 }
