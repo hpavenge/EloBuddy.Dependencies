@@ -382,6 +382,15 @@
       "changes": [
         "updated for patch 6.22"
       ]
+    },
+    {
+      "md5": [
+        "539e5da042744d8c51b668424e220153"
+      ],
+      "build": "433",
+      "changes": [
+        "updated for patch 6.23"
+      ]
     }
   ]
 }
