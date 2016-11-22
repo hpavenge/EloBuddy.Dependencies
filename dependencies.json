@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
-      "MD5": "8c9d81a5d5c79d34a364fe1a355a8a6c",
+      "MD5": "4463a8028dca2620d9f1bec802716df8",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
@@ -13,11 +13,11 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "d71b583c21ed799b77dda94d14e2df84",
+      "MD5": "c326a29acbb1ce2976a1df5228106cc6",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "5248b8e8797d2ddd3e01cb8f5199c2d2",
+      "MD5": "4a5708b1dd3ec46c6272b4947156db8e",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
@@ -232,7 +232,7 @@
     }
   },
   "Loader": {
-    "MD5": "f3bccc64345bfcf979e175a919c6e570",
+    "MD5": "206a0cc36af4c20ce000fbb8fd2de400",
     "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
   }
 }
