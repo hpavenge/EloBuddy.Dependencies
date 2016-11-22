@@ -391,6 +391,15 @@
       "changes": [
         "updated for patch 6.23"
       ]
+    },
+    {
+      "md5": [
+        "96d6b078335a55c14b965bb3c4409022"
+      ],
+      "build": "434",
+      "changes": [
+        "fix Game.GameId/Game.IsCustomGame"
+      ]
     }
   ]
 }
