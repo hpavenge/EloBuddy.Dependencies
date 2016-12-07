@@ -400,6 +400,15 @@
       "changes": [
         "fix Game.GameId/Game.IsCustomGame"
       ]
+    },
+    {
+      "md5": [
+        "621e9e090d655eb818cd8e14f620605b"
+      ],
+      "build": "435",
+      "changes": [
+        "updated for patch 6.24"
+      ]
     }
   ]
 }
