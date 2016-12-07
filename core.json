@@ -409,6 +409,15 @@
       "changes": [
         "updated for patch 6.24"
       ]
+    },
+    {
+      "md5": [
+        "f81b69a8487246bfe1971d9e58f8f0a7"
+      ],
+      "build": "436",
+      "changes": [
+        "fix anti-afk / random movements"
+      ]
     }
   ]
 }
