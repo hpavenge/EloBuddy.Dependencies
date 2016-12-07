@@ -13,11 +13,11 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "5e855c9def8b6dae318a61088d5ee71a",
+      "MD5": "f80df97e86f2b0ac82584a04f3935ecf",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "9e036f14c4bf9040206bbe85845bf106",
+      "MD5": "b5d5fd21fe080b7d5e479680edb55406",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
