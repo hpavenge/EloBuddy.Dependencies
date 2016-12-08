@@ -418,6 +418,15 @@
       "changes": [
         "fix anti-afk / random movements"
       ]
+    },
+    {
+      "md5": [
+        "fd1413643f63a2f8a11273faab234644"
+      ],
+      "build": "437",
+      "changes": [
+        "updated for Garena"
+      ]
     }
   ]
 }
