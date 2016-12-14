@@ -427,6 +427,15 @@
       "changes": [
         "updated for Garena"
       ]
+    },
+    {
+      "md5": [
+        "4c8a10a38918feb88aec08cf6397ba41"
+      ],
+      "build": "438",
+      "changes": [
+        "updated for 6.24 HF"
+      ]
     }
   ]
 }
