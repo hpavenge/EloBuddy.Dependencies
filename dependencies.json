@@ -257,11 +257,11 @@
     "01cf994985f90a8987790ef1f32b9bef": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "1941452ef9f8444b679c3fa23f3306fd",
+          "MD5": "5be1d77cb85baf19236befd9a5efa3a2",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.24-hf/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
-          "MD5": "5c668553b95ccdec2619d29010a9f530",
+          "MD5": "dbf78e604778ad0f0c037086d9aa8f53",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/6.24-hf/EloBuddy.Core.dll"
         }
       }

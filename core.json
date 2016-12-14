@@ -445,6 +445,15 @@
       "changes": [
         "fix item issues"
       ]
+    },
+    {
+      "md5": [
+        "dbf78e604778ad0f0c037086d9aa8f53"
+      ],
+      "build": "440",
+      "changes": [
+        "fix HPBarPosition"
+      ]
     }
   ]
 }
