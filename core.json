@@ -454,6 +454,15 @@
       "changes": [
         "fix HPBarPosition"
       ]
+    },
+    {
+      "md5": [
+        "8a6dc0e402fe1e3958d2dfaa360f3cd8"
+      ],
+      "build": "441",
+      "changes": [
+        "updated for 6.24-hf-2"
+      ]
     }
   ]
 }
