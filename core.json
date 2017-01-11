@@ -463,6 +463,15 @@
       "changes": [
         "updated for 6.24-hf-2"
       ]
+    },
+    {
+      "md5": [
+        "a94747d811e234a3d3bbeff3b44293d9"
+      ],
+      "build": "487",
+      "changes": [
+        "updated for patch 7.1"
+      ]
     }
   ]
 }
