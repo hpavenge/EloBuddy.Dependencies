@@ -490,6 +490,15 @@
       "changes": [
         "more 7.1 fixes"
       ]
+    },
+    {
+      "md5": [
+        "e3960851c56c87d1be8ad99e3d4a4a72"
+      ],
+      "build": "492",
+      "changes": [
+        "updated for 7.11-hf"
+      ]
     }
   ]
 }
