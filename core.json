@@ -508,6 +508,15 @@
       "changes": [
         "fix crashes"
       ]
+    },
+    {
+      "md5": [
+        "0eb2eb8d18a4fd72ff3084d0df2d7226"
+      ],
+      "build": "494",
+      "changes": [
+        "fix HPBarPosition issues"
+      ]
     }
   ]
 }
