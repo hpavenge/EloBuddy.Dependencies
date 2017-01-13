@@ -517,6 +517,15 @@
       "changes": [
         "fix HPBarPosition issues"
       ]
+    },
+    {
+      "md5": [
+        "e4c960c5cc3ff6bc49d3f26aeb9a14cc"
+      ],
+      "build": "495",
+      "changes": [
+        "updated for Garena 7.1"
+      ]
     }
   ]
 }
