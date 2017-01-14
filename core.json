@@ -526,6 +526,15 @@
       "changes": [
         "updated for Garena 7.1"
       ]
+    },
+    {
+      "md5": [
+        "a551b67731ef30683b6e391bf80f6392"
+      ],
+      "build": "496",
+      "changes": [
+        "updated for Garena 7.11-HF"
+      ]
     }
   ]
 }
