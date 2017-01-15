@@ -329,11 +329,11 @@
     "38c01413fa161f5339630b8d3827b2be": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "d4e5030ed7f1ad90c2b41e7397bd7bc1",
+          "MD5": "3329ad0b0074d31a86d6d122fc67d90a",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.11-garena-hf/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
-          "MD5": "a551b67731ef30683b6e391bf80f6392",
+          "MD5": "433ef908c4ca30536e184dc29d4ed637",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.11-garena-hf/EloBuddy.Core.dll"
         }
       }
